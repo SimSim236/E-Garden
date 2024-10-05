@@ -4,7 +4,9 @@ Réalisation d'un prototype de Jardin Connecté (Jardin Assit) pour permettre de
 
 Ce projet a été réalisé dans notre cursus pour le Baccalauréat STI2D, durant l'année de Première.
 
+Détails des tâches :
 
+[Diagramme de Gantt](/images/plannifEGarden.png)
 
 ## Indispensables pour réalisations
 
@@ -12,13 +14,19 @@ Pour mettre en oeuvre ce projet, vous avez besoin d'une carte Arduino UNO (Carte
 
 - [Arduino IDE](https://www.arduino.cc/en/software)
 
+Simulation sur TinkerCad :
+
+- [Simulation](/images/simulationEGarden.png)
 
 ## Outils importants
 
- - [Tinkercad : Simulations](https://www.tinkercad.com/)
- - [Arduino Doc, FAQ](https://www.arduino.cc/)
- - [AppInventor : Application mobile](https://appinventor.mit.edu/)
+- [Tinkercad : Simulations](https://www.tinkercad.com/)
+- [Arduino Doc, FAQ](https://www.arduino.cc/)
+- [AppInventor : Application mobile](https://appinventor.mit.edu/)
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Authors
 
