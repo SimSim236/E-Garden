@@ -1,4 +1,4 @@
-# E-Garden Project - 1ère STI2D
+# Projet E-Garden - 1ère STI2D
 
 Réalisation d'un prototype de Jardin Connecté (Jardin Assit) pour permettre de mesurer des données environnementales (Température, Humidité, Gaz, Ensoleillement) grâce à des capteurs et pouvoir agir en conséquences (Températures et humidités trop élevées & Ensoleillement trop bas...)
 
