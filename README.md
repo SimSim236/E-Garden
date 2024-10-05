@@ -6,7 +6,7 @@ Ce projet a été réalisé dans notre cursus pour le Baccalauréat STI2D, duran
 
 Détails des tâches :
 
-[Diagramme de Gantt](/images/plannifEGarden.png)
+![Diagramme de Gantt](/images/plannifEGarden.png)
 
 ## Indispensables pour réalisations
 
@@ -16,7 +16,7 @@ Pour mettre en oeuvre ce projet, vous avez besoin d'une carte Arduino UNO (Carte
 
 Simulation sur TinkerCad :
 
-- [Simulation](/images/simulationEGarden.png)
+![Simulation](/images/simulationEGarden.png)
 
 ## Outils importants
 
