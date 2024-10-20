@@ -8,13 +8,17 @@ Ce projet a été réalisé dans notre cursus pour le Baccalauréat STI2D, duran
 
 ![Exigences](ressources/cahierCharges.png)
 
-**Détails des tâches :**
-
-![Diagramme de Gantt](ressources/plannifEGarden.png)
-
 **Chaine de puissance & d'information :**
 
 ![Chaine de puissance & d'information](ressources/diagrammePuissance.png)
+
+**Simulation sur TinkerCad :**
+
+![Simulation](ressources/simulationEGarden.png)
+
+**Système final :**
+
+![Système final](ressources/imageSys.png)
 
 ## Indispensables pour réalisations
 
@@ -23,15 +27,7 @@ Pour mettre en oeuvre ce projet, vous avez besoin d'une carte Arduino UNO (Carte
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [Libraries](https://github.com/SimSim236/E-Garden/tree/main/librairies)
 
-**Simulation sur TinkerCad :**
-
-![Simulation](ressources/simulationEGarden.png)
-
-## Système final
-
-![Système final](ressources/imageSys.png)
-
-## Outils importants
+**Outils importants :**
 
 - [Tinkercad : Simulations](https://www.tinkercad.com/)
 - [Arduino Doc, FAQ](https://www.arduino.cc/)
