@@ -51,4 +51,4 @@ Pour mettre en oeuvre ce projet, vous avez besoin d'une carte Arduino UNO (Carte
 ## Authors
 
 - [🔆 - Sim](https://www.github.com/SimSim236)
-- [🎗️ - Lutr4nn](https://www.github.com/Lutr4nn)
+- [👨🏻‍💻 - Lutr4nn](https://www.github.com/Lutr4nn)
